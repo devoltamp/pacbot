@@ -1,0 +1,3 @@
+[submodule "eYRC_26-27_PacBot"]
+	path = eYRC_26-27_PacBot
+	url = https://github.com/eYantra-Robotics-Competition/eYRC_26-27_PacBot
