@@ -1,0 +1,1 @@
+man, if all i am gonna do is just give prompts. that takes all the fun out of it & still with prompting the bot ain't working properly. so, i am just gonna abandon this project. phooking bs.
